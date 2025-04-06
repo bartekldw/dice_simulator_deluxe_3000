@@ -23,5 +23,5 @@ And also: practice, pain, and plotting my future dice empire.
 ### 🛠️ How to run it
 
 ```bash
-g++ -std=c++17 -o dice_sim main.cpp
-./dice_sim
+g++ -std=c++17 -o dice_simulator_main.cpp.cpp
+./dice_simulator_main.cpp
