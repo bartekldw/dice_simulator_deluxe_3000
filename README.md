@@ -20,6 +20,10 @@ to generate completely useless, yet weirdly satisfying fake dice stats.
 Because why not?  
 And also: practice, pain, and plotting my future dice empire.
 
+### 🧊 Disclaimer
+This project won't help you pass math, fix your code, or get you a girlfriend.
+But hey, it's got a colorful graph — and that's something.
+
 ### 🛠️ How to run it
 
 ```bash
