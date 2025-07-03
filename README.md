@@ -10,7 +10,7 @@ No cóż… ja też.
 Witaj w Dice Simulator Deluxe 3000™ — jedynym programie w C++,
 którego nigdy nie potrzebowałeś, ale i tak go pokochasz.
 
-###  What does this thing do?
+###  Co to wogóle robi?
 - Pyta, ile ścian ma Twoja epicka kostka gracza (tak, D20 są mile widziane).
 - Pyta, ile razy ją rzucić (im więcej, tym bardziej soczyste dane).
 - Tworzy cudowny wykres słupkowy w terminalu przy pomocy magicznych gwiazdek (*).
