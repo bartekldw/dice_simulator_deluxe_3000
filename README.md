@@ -11,8 +11,8 @@ to generate completely useless, yet weirdly satisfying fake dice stats.
 
 - Asks you how many sides your epic gamer dice has (yes, D20s are welcome).
 - Asks how many times to roll it (the more, the spicier the data).
-- Generates a beautiful terminal bar chart with asterisk magic ✨
-- Highlights the most rolled number in blazing red 🔥
+- Generates a beautiful terminal bar chart with asterisk magic 
+- Highlights the most rolled number in blazing red 
 - Uses proper C++ random engines — no `rand()` shenanigans here.
 
 ###  Why?
