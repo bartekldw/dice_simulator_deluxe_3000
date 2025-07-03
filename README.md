@@ -23,6 +23,6 @@ Ten projekt nie pomoże Ci zdać matmy, naprawić kodu ani zdobyć dziewczyny.
 Ale hej — ma kolorowy wykres, a to też się liczy.
 ### How to run it
 ```bash
-g++ -std=c++17 -o dice_simulator_main.cpp.cpp
+g++ -std=c++17 -o dice_simulator_main.cpp
 ./dice_simulator_main.cpp
 ```
