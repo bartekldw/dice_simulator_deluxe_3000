@@ -3,7 +3,11 @@
 Zastanawiałeś się kiedyś, czy Twoje kostki potajemnie oszukują?
 Obudziłeś się o 3 nad ranem z myślą: „A co jeśli szóstka ma jakiś układ?”
 No cóż… ja też.
-
+<p align="center">
+  <a href="https://buymeacoffee.com/brtekld_prog" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Pomóż%20mi%20rozwijać%20pasje-yellow?style=for-the-badge" alt="Buy Me A Coffee">
+  </a>
+</p>
 Witaj w Dice Simulator Deluxe 3000™ — jedynym programie w C++,
 którego nigdy nie potrzebowałeś, ale i tak go pokochasz.
 
